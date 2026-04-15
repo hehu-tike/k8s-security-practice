@@ -302,6 +302,3 @@ docker run --rm -v /etc/kubernetes:/etc/kubernetes \
 
 ---
 
-### 格式说明
-本 README.md 完全遵循 **GitHub Flavored Markdown (GFM)** 标准，适配 Killercoda 在线预览、GitHub 仓库渲染，所有命令可直接复制执行，无格式错位、语法错误，可作为 Killercoda 实验教程直接使用。
-```
